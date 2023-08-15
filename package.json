@@ -1,0 +1,25 @@
+{
+  "name": "git-epam",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EllenaKravchenko/git-epam.git"
+  },
+  "author": "\"Elena <l.nedviga@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EllenaKravchenko/git-epam/issues"
+  },
+  "homepage": "https://github.com/EllenaKravchenko/git-epam#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.0"
+  }
+}
